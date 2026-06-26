@@ -41,6 +41,6 @@ Bu depo, yarışmada kullanılan nihai yazılımı arşivlemek, proje geliştirm
 **2.'lik Derecesi**
 
 <p align="center">
-  <img src="images/poster.jpeg" alt="4. MTD Araba Yarışmaları" width="850">
+  <img src="images/poster.jpeg" alt="4. MTD Araba Yarışmaları" width="650">
 </p>
 
